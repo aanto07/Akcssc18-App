@@ -3,6 +3,7 @@ import { StyleSheet, Text, View ,ImageBackground,Image } from 'react-native';
 import img2 from './index.png';
 import {RkButton,RkTheme} from 'react-native-ui-kitten';
 import {createStackNavigator} from 'react-navigation';
+import {createStackNavigator} from 'react-navigation';
 
 
 
